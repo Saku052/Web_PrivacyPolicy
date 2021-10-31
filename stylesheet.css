@@ -1,0 +1,25 @@
+h1 {
+    color: #364e96;/*文字色*/
+    padding: 0.5em 0;/*上下の余白*/
+    border-top: solid 3px #364e96;/*上線*/
+    border-bottom: solid 3px #364e96;/*下線*/
+    margin: 1em 15em;
+  }
+
+
+
+  .box1 {
+    padding: 0.5em 1em;
+    margin: 2em 15em;
+    font-weight: bold;
+    border: solid 3px #000000;
+
+}
+.box1 p {
+    margin: 0; 
+    padding: 0;
+}
+.all{
+    text-align:center;
+   }
+   body {background-color: rgb(221, 221, 221);}
